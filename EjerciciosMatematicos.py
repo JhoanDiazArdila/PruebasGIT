@@ -48,7 +48,7 @@ while True:
     print("*" * 70)
     # clear_screen()
 
-
+print('hola')
 
 
 
