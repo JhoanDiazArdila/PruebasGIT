@@ -1,0 +1,50 @@
+{
+    "Atletismo": {
+        "1": {
+            "Nombre": "jhoan",
+            "Telefono": 123,
+            "Edad": 18,
+            "Posicion": 1
+        },
+        "2": {
+            "Nombre": "sebas",
+            "Telefono": 321,
+            "Edad": 19,
+            "Posicion": 2
+        },
+        "3": {
+            "Nombre": "Maria",
+            "Telefono": 321,
+            "Edad": 19,
+            "Posicion": 8
+        }
+    },
+    "Ciclismo": {
+        "4": {
+            "Nombre": "Camila",
+            "Telefono": 963,
+            "Edad": 18,
+            "Posicion": 1
+        },
+        "5": {
+            "Nombre": "Mama",
+            "Telefono": 789,
+            "Edad": 18,
+            "Posicion": 2
+        }
+    },
+    "Patinaje": {
+        "6": {
+            "Nombre": "papa",
+            "Telefono": 654,
+            "Edad": 19,
+            "Posicion": 1
+        },
+        "7": {
+            "Nombre": "hermano",
+            "Telefono": 987,
+            "Edad": 20,
+            "Posicion": 2
+        }
+    }
+}
